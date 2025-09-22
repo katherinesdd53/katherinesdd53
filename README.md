@@ -1,4 +1,4 @@
-# Hi, I’m Katherine 
+# Hello, my name is Katherine 
 *a software engineer and data scientist passionate about impactful solutions.*
 
 ## About Me
