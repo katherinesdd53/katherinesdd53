@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I’m Katherine 
+*a software engineer and data scientist passionate about impactful solutions.*
 
-<!--
-**katherinesdd53/katherinesdd53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I’m a software engineer and data scientist with experience spanning startups, large tech companies, and diverse domains including legal tech, web development, and data infrastructure.  
+I’ve worked across the stack — from backend and frontend to full-stack and data science — building scalable web and mobile applications, optimizing performance, and designing systems to support real-world business intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I bring a balance of technical expertise and collaboration, with strengths in:
+- Mentorship & leadership  
+- Autonomous remote work  
+- Cross-team collaboration  
+- Attention to detail and long-term maintainability  
+
+What motivates me is using technology to solve meaningful problems, especially in industries like **healthcare** and **education**, where impact matters most.
+
+---
+
+## Technical Toolkit
+*(to expand later)*
+
+- **Languages**: Java, Python, C++, JavaScript, TypeScript, Ruby on Rails  
+- **Frameworks & Libraries**: Node.js, Pandas, React (and more)  
+- **Domains**: Backend, Frontend, Full Stack, Data Science  
+
+---
+
+## Philosophy
+I believe innovation is about more than just code — it’s about reimagining how systems can create lasting, positive change.  
+My focus is on building solutions that are **scalable, thoughtful, and impactful**, while mentoring others and continuously learning myself.
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/katherinesdd53)  
+- [Instagram](https://instagram.com/photography_project_nyc)  
+- [Email](katherinesdd53@gmail.com)  
