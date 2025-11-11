@@ -1,5 +1,4 @@
-# Hello, my name is Katherine 
-*a software engineer and data scientist passionate about impactful solutions.*
+<img width="1280" height="420" alt="Github Banner" src="https://github.com/user-attachments/assets/b074a1a8-6a85-4c34-b9a6-f11904c47fe4"/>
 
 ## About Me
 
