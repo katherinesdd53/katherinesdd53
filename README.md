@@ -4,10 +4,10 @@
 
 I’m a software engineer and data scientist with experience spanning startups, large tech companies, and diverse domains including legal tech, web development, and data infrastructure.
 
-I’ve worked across the stack — from backend and frontend to full-stack and data science — building scalable web and mobile applications, optimizing performance, and designing systems to support real-world business intelligence.
+I’ve worked across the stack, from backend and frontend to full-stack and data science, building scalable web and mobile applications, optimizing performance, and designing systems that support real-world business intelligence.
 
 I bring a balance of technical expertise and collaboration, with strengths in:
-- Mentorship & leadership  
+- Mentorship & knowledge sharing
 - Autonomous remote work  
 - Cross-team collaboration  
 - Attention to detail and long-term maintainability  
