@@ -135,9 +135,9 @@ What motivates me is using technology to solve meaningful problems, especially i
 
 ## Philosophy
 
-*I believe innovation is about more than just code — it’s about reimagining how systems can create lasting, positive change.*
+*I believe innovation is about more than just code — it’s about reimagining how systems can create lasting, positive change. My focus is on building solutions that are **scalable, thoughtful, and impactful**, while mentoring others and continuously learning myself.*
 
-*My focus is on building solutions that are **scalable, thoughtful, and impactful**, while mentoring others and continuously learning myself.*
+<img width="1280" height="420" alt="Github Banner" src="https://github.com/user-attachments/assets/8dadb302-eb0a-48ac-8224-eaea33413b38" />
 
 ## <p align="center"> Connect with Me </p>
 
